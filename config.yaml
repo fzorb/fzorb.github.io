@@ -1,0 +1,36 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: "FzOrb's website"
+theme: 'hello-friend-ng'
+paginate: 10
+
+params:
+  homeSubtitle: 'thoughts and stuff'
+  disableReadOtherPosts: false
+  enableSharingButtons: true
+  enableGlobalLanguageMenu: true
+  description: thoughts and stuff
+  keywords: fzorb, blog, thoughts, stuff
+  images:
+    - ""
+  social:
+    - identifier: github
+      name: github
+      url: https://github.com/fzorb
+    - identifier: twitter
+      name: twitter
+      url: https://twitter.com/fzorbie
+    - identifier: mastodon
+      name: mastodon
+      url: https://social.catin.space/@fzorb
+  logo:
+    logoCursorPathname: "/img/logo-cursor.png"
+
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: /posts
+    - identifier: whoami
+      name: whoami
+      url: /whoami
