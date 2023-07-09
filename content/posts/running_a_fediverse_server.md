@@ -57,7 +57,7 @@ Oh well, this might be easy for some or hard for some, so I will cover each opti
   ```
 
 * **Misskey:** Misskey is by far the most feature-rich server we've covered, like Pleroma, it has many versions:
-  **Vanilla**: The base version of Misskey, without any forks. https://misskey-hub.net/en/
+  * **Vanilla**: The base version of Misskey, without any forks. https://misskey-hub.net/en/
   * **Foundkey** Maintained by the same people who maintain Akkoma https://akkoma.dev/FoundKeyGang/FoundKey
   * **Calckey** A more advanced version of Misskey which implements the Mastodon API https://calckey.org/
 
