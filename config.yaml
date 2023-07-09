@@ -5,6 +5,7 @@ theme: 'hello-friend-ng'
 paginate: 10
 
 params:
+  theme: 'dark'
   homeSubtitle: 'thoughts and stuff'
   disableReadOtherPosts: false
   enableSharingButtons: true
