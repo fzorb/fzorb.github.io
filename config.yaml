@@ -23,7 +23,7 @@ params:
       url: https://twitter.com/fzorbie
     - identifier: mastodon
       name: mastodon
-      url: https://social.catin.space/@fzorb
+      url: https://the.kessoku.club/users/fzorb
   logo:
     logoCursorPathname: "/img/logo-cursor.png"
 
