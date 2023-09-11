@@ -54,6 +54,3 @@ Oh well, this might be easy for some or hard for some, so I will cover each opti
 
 
   I'd personally use Calckey as it seems more estabilished than FoundKey at this point in time. I'd reccomend any Misskey version for beginners, as it is easier to run and setup than Pleroma or Mastodon.
-
-## Conclusion
-Making a fediverse server is simple, but the hard part is maintaining it. I have recently opened a fediverse server of my own. Within 3 months, I'll share my experience running it and some tips for those interested.
