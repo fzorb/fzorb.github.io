@@ -45,16 +45,7 @@ Oh well, this might be easy for some or hard for some, so I will cover each opti
 
   All of them are trivially easy to setup and have one thing in common, the way that they are ran:
   * **From source:** you're compiling the source code every time you run the software. This opens up the posibilities of editing the source code on your server, which you may find useful in some cases. Though, depending on your server's specifications, it may take a while to run it. 
-  * **OTP**: OTP is the closest you can get to a binary release. It isn't compiled every time your run it, so startup times will be faster. Though, there are some limitations, most notably that you must use Debian or Alpine. 
-  
-  P.S. if you're using an Ampere server, instead of doing:
-  ```sh
-  export FLAVOUR="amd64-musl"
-  ```
-  you must do
-  ```sh
-  export FLAVOUR="arm64-musl"
-  ```
+  * **OTP**: OTP is the closest you can get to a binary release. It isn't compiled every time your run it, so startup times will be faster. Though, there are some limitations, most notably that you can't edit the source code
 
 * **Misskey:** Misskey is by far the most feature-rich server we've covered, like Pleroma, it has many versions:
   * **Vanilla**: The base version of Misskey, without any forks. https://misskey-hub.net/en/
